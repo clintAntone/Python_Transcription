@@ -53,8 +53,3 @@ def main():
 
 if __name__ == '__main__':
   main()
-
-
-##That's how you can automate the transcription
-##Be Lazy :) hehehehe ..
-##Thanks for watching
